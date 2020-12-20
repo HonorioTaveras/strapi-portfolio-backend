@@ -107,6 +107,8 @@ coverage
 # Strapi
 ############################
 
+extensions/upload/config/settings.json
+
 exports
 .cache
 build
