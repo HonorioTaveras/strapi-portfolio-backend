@@ -112,3 +112,10 @@ extensions/upload/config/settings.json
 exports
 .cache
 build
+
+echo ".env" >> .gitignore
+
+.env
+
+package-lock.json
+npm-debug.log
